@@ -28,13 +28,13 @@ luận trong các đoạn thân bài khi chúng liên quan đến tuyên bố lu
 bên ngoài, có lẽ để suy nghĩ thêm về chủ đề này. Kết thúc phần kết luận bằng một câu hỏi, một giai thoại hoặc suy ngẫm cuối cùng là một cách tuyệt vời để lại ấn tượng lâu dài 
 cho người đọc.
 
-# Một số lưu ý khi viết bài luận 5 đoạn
+# 2.Một số lưu ý khi viết bài luận 5 đoạn
 - Trong phần mở bài, ta nên viết rõ ràng và chỉ tập trung vào những chi tiết cần thiết. Vấn đề cần trình bày phải được tóm gọn trong một vài câu và phải dẫn đến câu chủ đề (bài 
 luận không nên là một bài phê bình).
 - Cần phân biệt rõ ràng giữa luận điểm và ví dụ cũng như ví dụ tường thuật và ví dụ minh họa.
 - Phần kết luận nên được trình bày gọn gàng như viết lại câu chủ đề theo một cách diễn đạt khác, những nhận xét ngắn gọn, nếu phù hợp thì nêu ra bài học bản thân được rút ra.
 
-# Hạn chế của bài luận 5 đoạn
+# 3.Hạn chế của bài luận 5 đoạn
 Bài luận năm đoạn chỉ đơn thuần là điểm khởi đầu để thể hiện ý tưởng của mình bằng văn bản học thuật; có một số hình thức và phong cách viết khác mà chúng ta nên sử dụng để thể
 hiện thông tin cần truyền đạt dưới dạng văn bản. Bài luận 5 đoạn là hình thức rèn luyện cơ bản kỹ năng viết một văn bản học thuật; tuy nhiên trong một số trường hợp, bài luận 5
 đoạn không phù hợp với các dạng bài đánh giá, phê bình, châm biếm đòi hỏi phong cách viết sáng, giàu trí tưởng tượng.
